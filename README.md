@@ -66,9 +66,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahek320&label=Profile+Views&color=brightgreen&style=plastic" alt="profile views" />
-</p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&width=450&lines=DevOps+Engineer+🚀;Cloud+Enthusiast+☁;Continuous+Learner+📚" />
